@@ -1,4 +1,4 @@
 export const environment = {
-    production: false,
-    apiUrl: 'htpp://localhost:8080'
+    production: true,
+    apiUrl: 'PROD URL'
 };
